@@ -1,2 +1,2 @@
 # grunt-tasks
-Grunt tasks and basic project structure.
+Grunt tasks for SASS compiling and basic project structure.
